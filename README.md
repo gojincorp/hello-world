@@ -1,2 +1,3 @@
 # hello-world
 My first GitHub repository
+Preparing for job interviews...
